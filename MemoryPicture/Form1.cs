@@ -43,5 +43,10 @@ namespace MemoryPicture
         {
 
         }
+
+        private void pictureBox14_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

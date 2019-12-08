@@ -9,3 +9,5 @@ C:\Users\User\source\repos\MemoryPicture\MemoryPicture\obj\Debug\MemoryPicture.c
 C:\Users\User\source\repos\MemoryPicture\MemoryPicture\obj\Debug\MemoryPicture.exe
 C:\Users\User\source\repos\MemoryPicture\MemoryPicture\obj\Debug\MemoryPicture.pdb
 C:\Users\User\source\repos\MemoryPicture\MemoryPicture\obj\Debug\MemoryPicture.login.resources
+C:\Users\User\source\repos\MemoryPicture\MemoryPicture\bin\Debug\memorysql.accdb
+C:\Users\User\source\repos\MemoryPicture\MemoryPicture\obj\Debug\MemoryPicture.lists.resources
